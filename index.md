@@ -4,11 +4,13 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 # Alan Hsi's First CS193 Homework
+
 - CS
 - Tools
 - Learning
 - Using terminal
 - figuring out github
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -30,7 +32,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+-hi
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
